@@ -1,4 +1,5 @@
 Api-Rest-Conectado_frontend_backend
+
 Este proyecto es una demostración de una aplicación web sencilla que conecta un backend REST API con un frontend. El objetivo principal de este proyecto es mostrar cómo se puede integrar una interfaz de usuario (frontend) con un servidor backend para crear una aplicación completa y funcional.
 
 Descripción del Proyecto
